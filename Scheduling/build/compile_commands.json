@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/eslam/Downloads/Scheduling/build",
+  "command": "/usr/bin/c++  -I/home/eslam/Downloads/Scheduling/. -g -std=gnu++14 -o CMakeFiles/Scheduling.dir/FCFS.cpp.o -c /home/eslam/Downloads/Scheduling/FCFS.cpp",
+  "file": "/home/eslam/Downloads/Scheduling/FCFS.cpp",
+  "output": "CMakeFiles/Scheduling.dir/FCFS.cpp.o"
+},
+{
+  "directory": "/home/eslam/Downloads/Scheduling/build",
+  "command": "/usr/bin/c++  -I/home/eslam/Downloads/Scheduling/. -g -std=gnu++14 -o CMakeFiles/Scheduling.dir/main.cpp.o -c /home/eslam/Downloads/Scheduling/main.cpp",
+  "file": "/home/eslam/Downloads/Scheduling/main.cpp",
+  "output": "CMakeFiles/Scheduling.dir/main.cpp.o"
+},
+{
+  "directory": "/home/eslam/Downloads/Scheduling/build",
+  "command": "/usr/bin/c++  -I/home/eslam/Downloads/Scheduling/. -g -std=gnu++14 -o CMakeFiles/Scheduling.dir/Priority.cpp.o -c /home/eslam/Downloads/Scheduling/Priority.cpp",
+  "file": "/home/eslam/Downloads/Scheduling/Priority.cpp",
+  "output": "CMakeFiles/Scheduling.dir/Priority.cpp.o"
+},
+{
+  "directory": "/home/eslam/Downloads/Scheduling/build",
+  "command": "/usr/bin/c++  -I/home/eslam/Downloads/Scheduling/. -g -std=gnu++14 -o CMakeFiles/Scheduling.dir/PriorityRR.cpp.o -c /home/eslam/Downloads/Scheduling/PriorityRR.cpp",
+  "file": "/home/eslam/Downloads/Scheduling/PriorityRR.cpp",
+  "output": "CMakeFiles/Scheduling.dir/PriorityRR.cpp.o"
+},
+{
+  "directory": "/home/eslam/Downloads/Scheduling/build",
+  "command": "/usr/bin/c++  -I/home/eslam/Downloads/Scheduling/. -g -std=gnu++14 -o CMakeFiles/Scheduling.dir/RR.cpp.o -c /home/eslam/Downloads/Scheduling/RR.cpp",
+  "file": "/home/eslam/Downloads/Scheduling/RR.cpp",
+  "output": "CMakeFiles/Scheduling.dir/RR.cpp.o"
+},
+{
+  "directory": "/home/eslam/Downloads/Scheduling/build",
+  "command": "/usr/bin/c++  -I/home/eslam/Downloads/Scheduling/. -g -std=gnu++14 -o CMakeFiles/Scheduling.dir/Scheduler.cpp.o -c /home/eslam/Downloads/Scheduling/Scheduler.cpp",
+  "file": "/home/eslam/Downloads/Scheduling/Scheduler.cpp",
+  "output": "CMakeFiles/Scheduling.dir/Scheduler.cpp.o"
+},
+{
+  "directory": "/home/eslam/Downloads/Scheduling/build",
+  "command": "/usr/bin/c++  -I/home/eslam/Downloads/Scheduling/. -g -std=gnu++14 -o CMakeFiles/Scheduling.dir/SJF.cpp.o -c /home/eslam/Downloads/Scheduling/SJF.cpp",
+  "file": "/home/eslam/Downloads/Scheduling/SJF.cpp",
+  "output": "CMakeFiles/Scheduling.dir/SJF.cpp.o"
+}
+]

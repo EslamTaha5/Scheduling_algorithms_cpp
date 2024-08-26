@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Scheduling.dir/FCFS.cpp.o CMakeFiles/Scheduling.dir/main.cpp.o CMakeFiles/Scheduling.dir/Priority.cpp.o CMakeFiles/Scheduling.dir/PriorityRR.cpp.o CMakeFiles/Scheduling.dir/RR.cpp.o CMakeFiles/Scheduling.dir/Scheduler.cpp.o CMakeFiles/Scheduling.dir/SJF.cpp.o -o Scheduling
