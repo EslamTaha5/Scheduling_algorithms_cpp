@@ -12,11 +12,11 @@ Algorithms included are:
 5. Priority with Round Robin
 
 ## Algorithms
-- [First Come First Served](#First Come First Served)
-- [Shortest Job First](#Shortest Job First)
-- [Round Robin](#Round Robin)
+- [First Come First Served](#First-Come-First-Served)
+- [Shortest Job First](#Shortest-Job-First)
+- [Round Robin](#Round-Robin)
 - [Priority](#Priority)
-- [Priority with Round Robin](#Priority with Round Robin)
+- [Priority with Round Robin](#Priority-with-Round-Robin)
 
 ## First Come First Served :
 A simple scheduling method that executes tasks in the order they arrive,
